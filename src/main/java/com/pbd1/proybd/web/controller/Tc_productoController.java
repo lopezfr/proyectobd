@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
-public class Tc_producto extends BaseController {
+public class Tc_productoController extends BaseController {
 
     @Autowired
     private Tc_productoService tc_productoService;
