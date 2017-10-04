@@ -2,6 +2,7 @@
 /.project
 /.classpath
 /.factorypath
+.idea/workspace.xml
 */.settings/
 */.project
 */.classpath
