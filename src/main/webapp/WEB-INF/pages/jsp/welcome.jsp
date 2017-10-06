@@ -11,6 +11,7 @@
     <title>Login - UMG</title>
 </head>
 <body>
-Hola mundo.
+<h1>Hola Carlos y Frany.</h1>
+<b>powered by Nosotros </b>
 </body>
 </html>
